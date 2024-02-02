@@ -14,3 +14,6 @@ Erick Saenz
 
 ## Authors Content
 Sandra Novoa
+
+## Clean up
+1. Remove git-basics folder
