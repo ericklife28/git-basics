@@ -7,4 +7,10 @@ This repo is used to go throught the basics of git.
 3. Endava user.
 
 ## Authors
+Erick Saenz
+
+## Authors
+Erick Saenz
+
+## Authors Content
 Sandra Novoa
