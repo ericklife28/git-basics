@@ -17,3 +17,10 @@ Sandra Novoa
 
 ## Clean up
 1. Remove git-basics folder
+
+
+## Steps
+
+1. Create a repository
+2. Create the README.md file
+3. Create a file and commit.
