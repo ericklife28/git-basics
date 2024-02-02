@@ -8,3 +8,9 @@ This repo is used to go throught the basics of git.
 
 ## Authors
 Erick Saenz
+
+## Authors
+Erick Saenz
+
+## Authors Content
+Sandra Novoa
